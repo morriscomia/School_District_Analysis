@@ -9,7 +9,7 @@
 
 *Adjusted Analysis:*
 
-[image(https://github.com/morriscomia/School_District_Analysis/blob/0d2e57e48d6b7f17a1df878d43fb6a8fe4352443/Resources/school_data.png)
+![image](https://github.com/morriscomia/School_District_Analysis/blob/0d2e57e48d6b7f17a1df878d43fb6a8fe4352443/Resources/school_data.png)
 
 Although the two are rounded to different decimals and formatted differently, it is clear that the data (district wide) is affected only marginally by the changed the Thomas High School scores. The average scores and percentage passing scores drop slightly. For example, rounding the percent overall passing from the previous school summary to 65.2%, there is only a difference of 0.3% compared to the summary after the changes. Since the scores tend to drop slightly, the ninth-grade scores must have had a positive impact on the data i.e., the percent passing was high.
 
@@ -19,8 +19,7 @@ Although the two are rounded to different decimals and formatted differently, it
 *Original Analysis:*
 
 *Adjusted Analysis:*
-
-![image](https://github.com/morriscomia/School_District_Analysis/blob/0d2e57e48d6b7f17a1df878d43fb6a8fe4352443/Resources/THS_summary_df.png
+![image](https://github.com/morriscomia/School_District_Analysis/blob/0d2e57e48d6b7f17a1df878d43fb6a8fe4352443/Resources/THS_summary_df.png)
 
 For Thomas High School , the average math and reading scores stays relatively close when changing the scores for ninth graders to NaN. The average math score decreases approximately by .06 (from 83.41 to 83.35) and the average reading score increases by about .05 (from 83.84 to 83.89).
 
