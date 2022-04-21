@@ -46,6 +46,7 @@ While there is an increase in the average reading score, there is a decrease in 
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/fe8ea55073e6d55503ac1c37cdc10962bd2c03f5/Resources/Scores%20by%20school%20type.png)
 
 *Adjusted Analysis:*
+
 ![image]
 (https://github.com/morriscomia/School_District_Analysis/blob/fe8ea55073e6d55503ac1c37cdc10962bd2c03f5/Resources/Scores%20by%20school%20type%20UPDATED.png)
 
