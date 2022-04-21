@@ -39,9 +39,9 @@ Adjusted Average Math Scores
 
 **Scores by school spending**
 
-![image]()
+![image](https://github.com/morriscomia/School_District_Analysis/blob/c0b483cda43eceaed75d0e1327d4c2220b91e8b5/Resources/Spending.png)
 
-![image]()
+![image](https://github.com/morriscomia/School_District_Analysis/blob/381fbf7231d3bfb88d9ddb0f181bcf400b3efdf3/Resources/Spending%20new.png)
 
 **Scores by school size**
 
