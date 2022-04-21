@@ -47,7 +47,6 @@ While there is an increase in the average reading score, there is a decrease in 
 
 *Adjusted Analysis:*
 
-![image]
-(https://github.com/morriscomia/School_District_Analysis/blob/fe8ea55073e6d55503ac1c37cdc10962bd2c03f5/Resources/Scores%20by%20school%20type%20UPDATED.png)
+![image](https://github.com/morriscomia/School_District_Analysis/blob/fe8ea55073e6d55503ac1c37cdc10962bd2c03f5/Resources/Scores%20by%20school%20type%20UPDATED.png)
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
