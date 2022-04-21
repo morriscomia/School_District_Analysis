@@ -17,6 +17,7 @@ Although the two are rounded to different decimals and formatted differently, it
 **How is the school summary affected?**
 
 *Original Analysis:*
+![image]()
 
 *Adjusted Analysis:*
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/0d2e57e48d6b7f17a1df878d43fb6a8fe4352443/Resources/THS_summary_df.png)
@@ -30,7 +31,17 @@ While there is an increase in the average reading score, there is a decrease in 
 
 **Math and reading scores by grade**
 
+Adjusted Average Math Scores
+![image](https://github.com/morriscomia/School_District_Analysis/blob/main/Resources/NEW%20MATH%20SCORE.png)
+
+ Adjusted Average Reading Scores
+![image](https://github.com/morriscomia/School_District_Analysis/blob/main/Resources/NEW%20READING%20SCORE.png)
+
 **Scores by school spending**
+
+![image]()
+
+![image]()
 
 **Scores by school size**
 
