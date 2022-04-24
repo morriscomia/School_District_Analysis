@@ -1,7 +1,7 @@
-# Overview of the school district analysis: Explain the purpose of this analysis.
+# Overview of the school district analysis: 
   The main analysis focused on the performance of math and reading scores disaggregated several ways in preparation for a board meeting. However, after the school board reviewed the data, it shows evidence of academic dishonesty. Specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. The school board asked for the data to be removed and analyzed again for a comparison and write up a report to describe how these changes affected the overall analysis.
   
-## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+## Results:
 
 **How is the district summary affected?**
 
