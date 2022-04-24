@@ -22,7 +22,7 @@ The district summary is affected in the % passing math, % passing reading,and th
 *Adjusted Analysis:*
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/0d2e57e48d6b7f17a1df878d43fb6a8fe4352443/Resources/THS_summary_df.png)
 
-The school summary is affected in the % passing math, % passing reading,and the % overall passing data that we retrieve, since we are performing the analysis considering 38,709 student for the Thomas High School. Getting lower values and 30% less persons passing both math and reading.
+  The school summary is affected in the % passing math, % passing reading,and the % overall passing data that we retrieve, since we are performing the analysis considering 38,709 student for the Thomas High School. Getting lower values and 30% less persons passing both math and reading.
 
 **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
@@ -31,11 +31,13 @@ The school summary is affected in the % passing math, % passing reading,and the 
  In the original analysis, Thomas High School ranked 2nd in the district raising red flags with the school board.
 
 *Adjusted Average Math Scores*
+
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/main/Resources/NEW%20MATH%20SCORE.png)
 
   After adjusting the 9th grade data, Thomas High School ranked in the exact middle of 15 campuses at 8th from the bottom.
 
  Adjusted Average Reading Scores
+ 
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/main/Resources/NEW%20READING%20SCORE.png)
 
 **Scores by school spending**
@@ -45,18 +47,24 @@ The school summary is affected in the % passing math, % passing reading,and the 
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/c0b483cda43eceaed75d0e1327d4c2220b91e8b5/Resources/Spending.png)
 
 **Adjusted School Spending**
-There was very little spending impact by changing the 9th grade scores.
+
+  There was very little spending impact by changing the 9th grade scores.
+  
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/381fbf7231d3bfb88d9ddb0f181bcf400b3efdf3/Resources/Spending%20new.png)
 
 **Scores by school size**
     Thomas High School is defined as a medium sized school. The hundredths place was needed to see the nominal changes.
 
 *Original Analysis:*
+
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/8b6388d7bdbbc5cb2125f15dc061a96713155494/Resources/Scores%20by%20school%20size.png)
 
 *Adjusted Analysis:*
+
 There was very little impact by campus size due to changing the 9th grade scores.
-![image](https://github.com/morriscomia/School_District_Analysis/blob/8b6388d7bdbbc5cb2125f15dc061a96713155494/Resources/Scores%20by%20school%20size%20CHALLENGE.png)
+
+![image
+(https://github.com/morriscomia/School_District_Analysis/blob/8b6388d7bdbbc5cb2125f15dc061a96713155494/Resources/Scores%20by%20school%20size%20CHALLENGE.png)
 
 **Scores by school type**
 
