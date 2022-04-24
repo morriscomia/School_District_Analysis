@@ -52,13 +52,13 @@ The district summary is affected in the % passing math, % passing reading,and th
 
 **Adjusted School Spending**
 
-  There was very little spending impact by changing the 9th grade scores.
+There was very little spending impact by changing the 9th grade scores.
   
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/381fbf7231d3bfb88d9ddb0f181bcf400b3efdf3/Resources/Spending%20new.png)
 
 **Scores by school size**
 
-    Thomas High School is defined as a medium sized school. The hundredths place was needed to see the nominal changes.
+Thomas High School is defined as a medium sized school. The hundredths place was needed to see the nominal changes.
 
 **Original Analysis:**
 
@@ -80,9 +80,11 @@ Thomas High School is a charter school type. The hundredths place was needed to 
 **Adjusted Analysis:**
 
 There was very little impact by school type by changing the 9th grade scores.
+
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/fe8ea55073e6d55503ac1c37cdc10962bd2c03f5/Resources/Scores%20by%20school%20type%20UPDATED.png)
 
 ## Summary: 
+
 **Four changes to the school district analysis after reading and math scores have been replaced:**
 
 -The overall passing rate for Thomas High School changed dramatically from 91% to 65%.
