@@ -5,9 +5,11 @@
 
 **How is the district summary affected?**
 
-*Original Analysis:*
+**Original Analysis:**
+
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/fc0f8fc707f7b8be923540a6e11290110519ca62/Resources/original%20summary.PNG)
-*Adjusted Analysis:*
+
+**Adjusted Analysis:**
 
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/0d2e57e48d6b7f17a1df878d43fb6a8fe4352443/Resources/school_data.png)
 
@@ -16,10 +18,10 @@ The district summary is affected in the % passing math, % passing reading,and th
 
 **How is the school summary affected?**
 
-**Original Analysis:*
+**Original Analysis:**
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/1eadc5eb85f2e195b52eea33183d58ca0f16a1da/Resources/schoolsummary%20original.png)
 
-**Adjusted Analysis:*
+**Adjusted Analysis:**
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/0d2e57e48d6b7f17a1df878d43fb6a8fe4352443/Resources/THS_summary_df.png)
 
   The school summary is affected in the % passing math, % passing reading,and the % overall passing data that we retrieve, since we are performing the analysis considering 38,709 student for the Thomas High School. Getting lower values and 30% less persons passing both math and reading.
