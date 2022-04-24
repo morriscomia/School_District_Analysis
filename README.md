@@ -34,7 +34,7 @@ The district summary is affected in the % passing math, % passing reading,and th
 
 In the original analysis, Thomas High School ranked 2nd in the district raising red flags with the school board.
 
-**Adjusted Average Math Scores*
+**Adjusted Average Math Scores**
 
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/main/Resources/NEW%20MATH%20SCORE.png)
 
