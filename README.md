@@ -30,17 +30,24 @@ While there is an increase in the average reading score, there is a decrease in 
 **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
 **Math and reading scores by grade**
-
+  In the original analysis, Thomas High School ranked 2nd in the district raising red flags with the school board.
 Adjusted Average Math Scores
+
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/main/Resources/NEW%20MATH%20SCORE.png)
+
+  After adjusting the 9th grade data, Thomas High School ranked in the exact middle of 15 campuses at 8th from the bottom.
 
  Adjusted Average Reading Scores
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/main/Resources/NEW%20READING%20SCORE.png)
 
 **Scores by school spending**
+*Original Analysis*
+  Thomas High School falls in the $630-$644/student spending range. However, the hundredths place was needed to see the nominal changes.
 
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/c0b483cda43eceaed75d0e1327d4c2220b91e8b5/Resources/Spending.png)
 
+**Adjusted School Spending**
+There was very little spending impact by changing the 9th grade scores.
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/381fbf7231d3bfb88d9ddb0f181bcf400b3efdf3/Resources/Spending%20new.png)
 
 **Scores by school size**
@@ -61,3 +68,13 @@ Adjusted Average Math Scores
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/fe8ea55073e6d55503ac1c37cdc10962bd2c03f5/Resources/Scores%20by%20school%20type%20UPDATED.png)
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+-The overall passing rate for Thomas High School changed dramatically from 91% to 65%.
+
+-Thomas High School's ranking dropped from 2nd to 8th in the district of 15 campuses.
+
+-Data at the grade level will now show as "NaN" in reports for the 9th grade students at Thomas High School
+
+-In addition to the overall passing rate, the campus math and reading averages and passing percentages all saw shifts.
+
+The major changes will be seen at the lower views of the disaggregated data with minor impact to the larger data views.
