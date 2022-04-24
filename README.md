@@ -31,7 +31,8 @@ The district summary is affected in the % passing math, % passing reading,and th
 **Math and reading scores by grade**
 
 **Original Analysis**
- In the original analysis, Thomas High School ranked 2nd in the district raising red flags with the school board.
+
+In the original analysis, Thomas High School ranked 2nd in the district raising red flags with the school board.
 
 **Adjusted Average Math Scores*
 
@@ -46,6 +47,7 @@ The district summary is affected in the % passing math, % passing reading,and th
 **Scores by school spending**
 
 **Original Analysis**
+
   Thomas High School falls in the $630-$644/student spending range. However, the hundredths place was needed to see the nominal changes.
 
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/c0b483cda43eceaed75d0e1327d4c2220b91e8b5/Resources/Spending.png)
