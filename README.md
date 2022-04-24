@@ -70,8 +70,7 @@ Thomas High School is defined as a medium sized school. The hundredths place was
 
 There was very little impact by campus size due to changing the 9th grade scores.
 
-![image]
-(https://github.com/morriscomia/School_District_Analysis/blob/8b6388d7bdbbc5cb2125f15dc061a96713155494/Resources/Scores%20by%20school%20size%20CHALLENGE.png)
+![image](https://github.com/morriscomia/School_District_Analysis/blob/8b6388d7bdbbc5cb2125f15dc061a96713155494/Resources/Scores%20by%20school%20size%20CHALLENGE.png)
 
 **Scores by school type**
 
