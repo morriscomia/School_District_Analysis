@@ -75,6 +75,7 @@ There was very little impact by campus size due to changing the 9th grade scores
 **Scores by school type**
 
 **Original Analysis:**
+
 Thomas High School is a charter school type. The hundredths place was needed to see the nominal changes.
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/fe8ea55073e6d55503ac1c37cdc10962bd2c03f5/Resources/Scores%20by%20school%20type.png)
 
