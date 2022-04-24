@@ -29,6 +29,7 @@ The district summary is affected in the % passing math, % passing reading,and th
 **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
 **Math and reading scores by grade**
+
 **Original Analysis**
  In the original analysis, Thomas High School ranked 2nd in the district raising red flags with the school board.
 
@@ -43,6 +44,7 @@ The district summary is affected in the % passing math, % passing reading,and th
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/main/Resources/NEW%20READING%20SCORE.png)
 
 **Scores by school spending**
+
 **Original Analysis**
   Thomas High School falls in the $630-$644/student spending range. However, the hundredths place was needed to see the nominal changes.
 
@@ -55,6 +57,7 @@ The district summary is affected in the % passing math, % passing reading,and th
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/381fbf7231d3bfb88d9ddb0f181bcf400b3efdf3/Resources/Spending%20new.png)
 
 **Scores by school size**
+
     Thomas High School is defined as a medium sized school. The hundredths place was needed to see the nominal changes.
 
 **Original Analysis:**
@@ -75,6 +78,7 @@ Thomas High School is a charter school type. The hundredths place was needed to 
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/fe8ea55073e6d55503ac1c37cdc10962bd2c03f5/Resources/Scores%20by%20school%20type.png)
 
 **Adjusted Analysis:**
+
 There was very little impact by school type by changing the 9th grade scores.
 ![image](https://github.com/morriscomia/School_District_Analysis/blob/fe8ea55073e6d55503ac1c37cdc10962bd2c03f5/Resources/Scores%20by%20school%20type%20UPDATED.png)
 
